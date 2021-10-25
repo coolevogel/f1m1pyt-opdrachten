@@ -1,0 +1,6 @@
+print ("name: dio brando")
+print ("stand: the world")
+print ("age: 100")
+print ("stand level: 100")
+print ("stand ability: stop time")
+print ("weakness: UV light")
